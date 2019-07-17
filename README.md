@@ -7,4 +7,4 @@
   Aplicação em python web utilizando a biblioteca FLASK
   
 ## Descrição
-  Essa aplicação foi Criada para listar jogos em uma pagina web. A aplicação possui funções de cadastrar e excluir jogos, e um tela de login com regras de autenticação de usuário.
+  Essa aplicação foi Criada para listar jogos em uma pagina web. A aplicação possui funções de cadastrar e excluir jogos, e um tela de login com regras de autenticação de usuário. Para o css da camada web foi utilizado o bootstrap.
